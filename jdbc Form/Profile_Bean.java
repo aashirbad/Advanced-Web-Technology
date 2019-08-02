@@ -1,4 +1,8 @@
 
+	/* NAME : AASHIRBAD MAHARANA
+	REDG NO	: 170301120116  */
+
+	
 public class Profile_Bean {
 	String id = null;
 	String name = null;
